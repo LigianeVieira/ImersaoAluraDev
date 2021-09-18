@@ -1,2 +1,2 @@
 # ImersaoAluraDev
-Primeiros passos Js 
+Primeiros passos em Javascript, Html e Css
